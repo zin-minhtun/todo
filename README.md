@@ -2,7 +2,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
-## after running the command 
+## After running the command 
 
 If u got some error like "react-scripts" is not recognized as an internal or external command, check your react-script dependency is avaliable or not in package.json
 
